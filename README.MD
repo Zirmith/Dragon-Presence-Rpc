@@ -12,6 +12,8 @@
 [![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
 [![Release Date](https://img.shields.io/github/release-date/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/commits/main)
+![Profile Views](https://komarev.com/ghpvc/?username=Zirmith&color=brightgreen)
+
 
 
 **Powered by Dragons 🐉**
