@@ -1,5 +1,8 @@
 # Dragon-Presence Discord RPC
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github)](https://github.com/Zirmith/Dragon-Presence-Rpc)
+
+
 ## Overview
 
 Dragon-Presence Discord RPC is a custom Roblox Rich Presence (RPC) solution for Discord, enabling you to share your Roblox game activity on your Discord profile. What distinguishes this RPC is its utilization of a website-based method, eliminating the need for access to sensitive Roblox information such as cookies.
