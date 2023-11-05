@@ -3,12 +3,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github)](https://github.com/Zirmith/Dragon-Presence-Rpc)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
+[![Contributors](https://img.shields.io/github/contributors/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/graphs/contributors)
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases/tag/v1.0)
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
 [![Issues](https://img.shields.io/github/issues/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/issues)
 [![Downloads](https://img.shields.io/github/downloads/Zirmith/Dragon-Presence-Rpc/total)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases)
 [![Stars](https://img.shields.io/github/stars/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/stargazers)
 [![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
+[![Release Date](https://img.shields.io/github/release-date/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/commits/main)
+
 
 **Powered by Dragons 🐉**
 
