@@ -4,6 +4,14 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases/tag/v1.0)
+[![Status](https://img.shields.io/badge/Status-Stable-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
+[![Issues](https://img.shields.io/github/issues/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/issues)
+[![Downloads](https://img.shields.io/github/downloads/Zirmith/Dragon-Presence-Rpc/total)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases)
+[![Stars](https://img.shields.io/github/stars/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/stargazers)
+[![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
+
+**Powered by Dragons 🐉**
+
 ## Overview
 
 Dragon-Presence Discord RPC is a custom Roblox Rich Presence (RPC) solution for Discord, enabling you to share your Roblox game activity on your Discord profile. What distinguishes this RPC is its utilization of a website-based method, eliminating the need for access to sensitive Roblox information such as cookies.
