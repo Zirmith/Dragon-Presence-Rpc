@@ -5,6 +5,8 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
 [![Contributors](https://img.shields.io/github/contributors/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/graphs/contributors)
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases/tag/v1.0)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases/latest)
+
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)](https://github.com/Zirmith/Dragon-Presence-Rpc)
 [![Issues](https://img.shields.io/github/issues/Zirmith/Dragon-Presence-Rpc)](https://github.com/Zirmith/Dragon-Presence-Rpc/issues)
 [![Downloads](https://img.shields.io/github/downloads/Zirmith/Dragon-Presence-Rpc/total)](https://github.com/Zirmith/Dragon-Presence-Rpc/releases)
@@ -40,9 +42,4 @@ We extend our sincere gratitude to the developers and communities of Discord and
 
 Enjoy utilizing Dragon-Presence Discord RPC to exhibit your Roblox game activity on Discord! Should you encounter any issues or have suggestions for improvement, please do not hesitate to reach out.
 
-<a href="https://github.com/Zirmith/Dragon-Presence-Rpc/releases/latest" target="_blank">
-  <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">
-    Download Latest Version
-  </button>
-</a>
 
