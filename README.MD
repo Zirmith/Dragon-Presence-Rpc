@@ -39,3 +39,10 @@ This project is strictly intended for educational and demonstrative purposes. Pl
 We extend our sincere gratitude to the developers and communities of Discord and Roblox for providing the essential tools and documentation necessary to create this integration.
 
 Enjoy utilizing Dragon-Presence Discord RPC to exhibit your Roblox game activity on Discord! Should you encounter any issues or have suggestions for improvement, please do not hesitate to reach out.
+
+<a href="https://github.com/Zirmith/Dragon-Presence-Rpc/releases/latest" target="_blank">
+  <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">
+    Download Latest Version
+  </button>
+</a>
+
