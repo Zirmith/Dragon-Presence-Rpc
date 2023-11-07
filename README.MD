@@ -32,7 +32,7 @@ This README offers comprehensive instructions on setting up and utilizing Dragon
 - Safeguard your privacy by avoiding the need for sensitive Roblox data like cookies.
 - Seamlessly integrate with Discord through a user-friendly website-based solution.
 - **Auto-launch Control:** You can now toggle the auto-launch feature for the application, ensuring it starts automatically when your system boots up. This provides greater control and convenience over the application's behavior.
-- **Improved User Interaction:** The application now prompts users in a more user-friendly and formal manner, making it easier to understand and interact with the auto-launch feature.
+- **Improved User Interaction:** The application now prompts users in a more user-friendly and formal manner, making it easier to understand and interact with the auto-launch feature..
 
 ## Disclaimer
 
