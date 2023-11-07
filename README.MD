@@ -35,11 +35,13 @@ This README offers comprehensive instructions on setting up and utilizing Dragon
 - **Improved User Interaction:** The application now prompts users in a more user-friendly and formal manner, making it easier to understand and interact with the auto-launch feature.
 
 ## Images
--Offline
+
 ![Offline](https://github.com/Zirmith/Dragon-Presence-Rpc/blob/main/sneaks/Screen%20Shot%202023-11-07%20at%2012.45.49%20PM.png?raw=true)
--In Game
+<!-- Add an empty line here for spacing -->
+
 ![In-Game](https://github.com/Zirmith/Dragon-Presence-Rpc/blob/main/sneaks/Screen%20Shot%202023-11-07%20at%2012.50.52%20PM.png?raw=true)
--Website
+<!-- Add an empty line here for spacing -->
+
 ![Website](https://github.com/Zirmith/Dragon-Presence-Rpc/blob/main/sneaks/Screen%20Shot%202023-11-07%20at%2012.51.39%20PM.png?raw=true)
 
 
