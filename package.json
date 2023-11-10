@@ -1,0 +1,38 @@
+{
+  "name": "dragon_presence-client",
+  "version": "1.0.0",
+  "description": "Discord RPC Presence Script for Dragon-Presence",
+  "main": "dragon_presence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dr": "electron .",
+    "build-mac": "pkg dragon_presence.js --output ~/Desktop/Main/executables/mac/dragon_presencev2_mac --targets node16-macos-x64",
+    "build-win": "pkg dragon_presence.js --output ~/Desktop/Main/executables/win/dragon_presencev2_win.exe --targets node16-win-x64"
+  },
+  "bin": {
+    "dragon-presence": "./dragon_presence.js"
+  },
+  "pkg": {
+    "scripts": "dragon_presence.js",
+    "targets": [
+      "node16-win-x64",
+      "node16-macos-x64"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "auto-launch": "^5.0.6",
+    "axios": "^0.26.1",
+    "blessed": "^0.1.81",
+    "discord-rpc": "^4.0.1",
+    "electron": "^26.4.3",
+    "readline-sync": "^1.4.10",
+    "sys": "^0.0.1"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
