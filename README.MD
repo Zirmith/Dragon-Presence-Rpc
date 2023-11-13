@@ -39,7 +39,7 @@ This README offers comprehensive instructions on setting up and utilizing Dragon
 ![Offline](https://github.com/Zirmith/Dragon-Presence-Rpc/blob/main/sneaks/Screen%20Shot%202023-11-07%20at%2012.45.49%20PM.png?raw=true)
 <!-- Add an empty line here for spacing -->
 
-![In-Game](https://github.com/Zirmith/Dragon-Presence-Rpc/blob/main/sneaks/Screen%20Shot%202023-11-07%20at%2012.50.52%20PM.png?raw=true)
+![In-Game](https://raw.githubusercontent.com/Zirmith/Dragon-Presence-Rpc/main/sneaks/Screen%20Shot%202023-11-13%20at%205.52.08%20PM.png?raw=true)
 <!-- Add an empty line here for spacing -->
 
 ![Website](https://github.com/Zirmith/Dragon-Presence-Rpc/blob/main/sneaks/Screen%20Shot%202023-11-07%20at%2012.51.39%20PM.png?raw=true)
